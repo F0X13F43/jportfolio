@@ -1,0 +1,18 @@
+footer {
+  bottom: 0;
+  position: absolute;
+  width: 100%;
+  padding: 10px;
+  background-color: black;
+  color: white;
+  font-family: "Koulen", cursive;
+}
+
+span {
+  font-size: 12px;
+  margin-right: 100px;
+}
+
+a {
+    margin: 5px;
+}
