@@ -1,3 +1,28 @@
+mat-toolbar {
+  background-color: #000000;
+}
+
+.logo {
+  margin-right: 6em;
+}
+
 button {
-    font-family: "Koulen", cursive;
+  font-family: "Koulen", cursive;
+  background-color: transparent;
+  text-align: center;
+}
+
+button:hover {
+  background-image: linear-gradient(#61A0AF,#96C9DC);
+  transition: 1s ease;
+}
+
+a {
+  text-decoration: none;
+  color: #f06c9b;
+  text-align: center;
+}
+
+a:hover {
+    color: #000000;
 }

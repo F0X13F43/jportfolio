@@ -1,7 +1,13 @@
 .hero-section {
   clip-path: polygon(0% 0%, 100% 0%, 100% calc(100% - 50px), 0% 100%);
-  background-color: grey;
-  padding: 15px 15px 150px 15px;
+  background-image: linear-gradient(#F06C9B,#F9B9B7, #F5D491);
+  padding: 45px 15px 150px 15px;
   text-align: center;
   font-family: "Koulen", cursive;
+  color: #000000;
+}
+
+hr {
+  border: 1px solid #000000;
+  border-radius: 50%;
 }

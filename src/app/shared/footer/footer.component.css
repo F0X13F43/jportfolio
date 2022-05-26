@@ -2,17 +2,12 @@ footer {
   bottom: 0;
   position: absolute;
   width: 100%;
-  padding: 10px;
-  background-color: black;
-  color: white;
-  font-family: "Koulen", cursive;
+  background-color: #000000;
+  color: #F06C9B;
+  font-family: 'Koulen', cursive;
 }
 
 span {
-  font-size: 12px;
-  margin-right: 100px;
-}
-
-a {
-    margin: 5px;
+  margin-left: 1em;
+  margin-right: 15em;
 }
