@@ -6,23 +6,15 @@ mat-toolbar {
   margin-right: 6em;
 }
 
-button {
-  font-family: "Koulen", cursive;
-  background-color: transparent;
-  text-align: center;
-}
-
-button:hover {
-  background-image: linear-gradient(#61A0AF,#96C9DC);
-  transition: 1s ease;
-}
-
 a {
+  font-family: "Koulen", cursive;
   text-decoration: none;
   color: #f06c9b;
   text-align: center;
 }
 
 a:hover {
-    color: #000000;
+  color: #000000;
+  background-color:#F5D491;
+  transition: 1s ease;
 }
