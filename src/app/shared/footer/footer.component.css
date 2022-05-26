@@ -11,3 +11,9 @@ span {
   margin-left: 1em;
   margin-right: 15em;
 }
+
+img {
+  height: 30px;
+  width: auto;
+  margin: 0 5px 0 5px;
+}

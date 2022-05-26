@@ -1,9 +1,12 @@
 mat-toolbar {
   background-color: #000000;
+  margin: 15px 0 5px 0;
 }
 
-.logo {
-  margin-right: 6em;
+img {
+  height: 65px;
+  width: auto;
+  margin-right: 70px;
 }
 
 a {
